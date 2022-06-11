@@ -30,6 +30,7 @@ an application.
 
 The result is as follow:
 
+![](sample.png)
 
 
 It is possible to write application
