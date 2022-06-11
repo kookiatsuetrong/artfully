@@ -8,7 +8,7 @@ An easy way to write application by creating a
 JavaScript class.
 
 ```javascript
-class Sample extends Application {
+var Sample = class extends Application {
 	create() {
 		this.setTitle("Sample")
 		let menu = new Menu()
